@@ -1,0 +1,14 @@
+{
+  "name": "satellite-tracker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "vishramurankar@gmail.com",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "satellite.js": "^4.1.2"
+  }
+} 
